@@ -4,4 +4,4 @@ The bubbleSort function implements the Bubble Sort algorithm to sort the element
 
 The function returns the sorted arr. Bubble Sort is easy to understand but generally less efficient than more advanced sorting algorithms for large datasets.
 
-#### Check out the live app [here](https://priyanka23-brs.github.io/Call-Center/).
+#### Check out the live app [here](https://priyanka23-brs.github.io/Bubble-Sorting-Algorithm/).
